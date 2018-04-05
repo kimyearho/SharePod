@@ -12,7 +12,7 @@ This app is under development.
 ### Supported Features
 
 * Youtube Music Search. (or More search)
-* RealTime Playback record management (Create / Remove / Video link copy / Watch video)
+* Playback record management (Create / Remove / Video link copy / Watch video)
 * Play Music (Resume / Stop / Play / Loop / Previous play / Next play / volume)
 * Dedicated playlist
 * Music MP3 Download
