@@ -1,3 +1,5 @@
+![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
+
 ### I have migrated the repository to Gitlab.
 
 ### 저장소 이전
