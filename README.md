@@ -5,9 +5,7 @@
 ### 저장소 이전
 저장소를 GitLab으로 이전 했습니다. <br/>
 
-***
-This app is under development.
-***
+### [2018-04-06] v1.0 Pre - Release
 
 ### Supported Features
 
@@ -17,6 +15,18 @@ This app is under development.
 * Dedicated playlist
 * Music MP3 Download
 * Change the theme
+
+***
+### Next update
+***
+
+```
+1. Implemented channel list combined with playlist
+2. Add playlist full iteration
+3. Add search list detail mode
+4. Added autoplay based on search list
+5. Fix other bugs and convenience
+```
 
 [Team Trello](https://trello.com/b/j4mKplhk/youtube-music-player)
 * 개발 히스토리는 Trello에 등록되고 있습니다. 누구나 조회 가능합니다.
