@@ -14,7 +14,6 @@
 * Play Music (Resume / Stop / Play / Loop / Previous play / Next play / volume)
 * Dedicated playlist
 * Music MP3 Download
-* Change the theme
 
 ***
 ### Next update
