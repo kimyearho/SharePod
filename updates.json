@@ -1,0 +1,8 @@
+{
+    "win32-x64-prod": {
+      "readme": "Second release",
+      "update": "https://github.com/kimyearho/SharePod/releases",
+      "install": "https://github.com/kimyearho/SharePod/releases/download/1.1.1/SharePod-Installer.exe",
+      "version": "1.1.1"
+    }
+  }
