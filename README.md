@@ -5,7 +5,8 @@
 ### 저장소 이전
 저장소를 GitLab으로 이전 했습니다. <br/>
 
-### [2018-04-08] v1.10 Pre - Release
+### [2018-04-16] v1.2 Pre - Release
+### [2018-04-08] v1.1 Pre - Release
 ### [2018-04-06] v1.0 Pre - Release
 
 ### Supported Features
