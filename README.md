@@ -9,6 +9,10 @@
 ### [2018-04-08] v1.1 Pre - Release
 ### [2018-04-06] v1.0 Pre - Release
 
+![Imgur](https://trello-attachments.s3.amazonaws.com/5a5dfd3a30c0701da5a2ad08/5ad3927104f8833cd3ac06d0/b230b73618e37a5785f7058abf535f9c/image.png)
+
+![Imgur](https://trello-attachments.s3.amazonaws.com/5a5dfd3a30c0701da5a2ad08/5ad3927104f8833cd3ac06d0/beb309404531608ddca7bf55a2827d32/image.png)
+
 ### Supported Features
 
 * Youtube Music Search. (or More search)
