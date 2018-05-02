@@ -5,25 +5,18 @@
 ### 저장소 이전
 저장소를 GitLab으로 이전 했습니다. <br/>
 
+### [2018-05-02] v1.3.1 Release
 ### [2018-04-27] v1.3 Pre - Release
 ### [2018-04-20] v1.2.4 Pre - Release
 ### [2018-04-16] v1.2 Pre - Release
 ### [2018-04-08] v1.1 Pre - Release
 ### [2018-04-06] v1.0 Pre - Release
 
-![Imgur](https://i.imgur.com/yCCCmdj.png))
+![Imgur](https://i.imgur.com/yCCCmdj.png)
 
 ![Imgur](https://i.imgur.com/nSNr7h2.png)
 
 ![Imgur](https://i.imgur.com/9IgkEa4.png)
-
-### Supported Features
-
-* Youtube Music Search. (or More search)
-* Playback record management (Create / Remove / Video link copy / Watch video)
-* Play Music (Resume / Stop / Play / Loop / Previous play / Next play / volume)
-* Dedicated playlist
-* Music MP3 Download
 
 [Team Trello](https://trello.com/b/j4mKplhk/youtube-music-player)
 * 개발 히스토리는 Trello에 등록되고 있습니다. 누구나 조회 가능합니다.
