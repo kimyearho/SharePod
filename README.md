@@ -14,11 +14,15 @@
 ### [2018-04-08] v1.1 Pre - Release
 ### [2018-04-06] v1.0 Pre - Release
 
-![Imgur](https://i.imgur.com/yCCCmdj.png)
+![Imgur](https://i.imgur.com/pR9tVma.png)
 
-![Imgur](https://i.imgur.com/nSNr7h2.png)
+![Imgur](https://i.imgur.com/a3BrxxN.png)
 
-![Imgur](https://i.imgur.com/9IgkEa4.png)
+![Imgur](https://i.imgur.com/bexQ906.png)
+
+![Imgur](https://i.imgur.com/TgUM5cw.png)
+
+![Imgur](https://i.imgur.com/IuLmms0.png)
 
 [Team Trello](https://trello.com/b/j4mKplhk/youtube-music-player)
 * 개발 히스토리는 Trello에 등록되고 있습니다. 누구나 조회 가능합니다.
