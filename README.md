@@ -5,7 +5,7 @@
 ### 저장소 이전
 저장소를 GitLab으로 이전 했습니다. <br/>
 
-### [2018-05-09] v1.3.5 Release - Expected
+### [2018-05-09] v1.3.5 Release
 ### [2018-05-04] v1.3.4 Release
 ### [2018-05-04] v1.3.3 Release
 ### [2018-05-04] v1.3.2 Release
@@ -15,6 +15,8 @@
 ### [2018-04-16] v1.2 Pre - Release
 ### [2018-04-08] v1.1 Pre - Release
 ### [2018-04-06] v1.0 Pre - Release
+
+![Imgur](https://i.imgur.com/Ikr1OCJ.png)
 
 ![Imgur](https://i.imgur.com/pR9tVma.png)
 
