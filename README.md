@@ -24,14 +24,6 @@
 
 ![Imgur](https://i.imgur.com/U4tBk1R.png)
 
-![Imgur](https://i.imgur.com/Ikr1OCJ.png)
+![Imgur](https://i.imgur.com/IcgSJbf.png)
 
-![Imgur](https://i.imgur.com/pR9tVma.png)
-
-![Imgur](https://i.imgur.com/a3BrxxN.png)
-
-![Imgur](https://i.imgur.com/bexQ906.png)
-
-![Imgur](https://i.imgur.com/TgUM5cw.png)
-
-![Imgur](https://i.imgur.com/IuLmms0.png)
+![Imgur](https://i.imgur.com/lcGxi3f.png)
