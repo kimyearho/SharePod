@@ -9,7 +9,6 @@
 <summary>Version Update (Show click)</summary>
   <ul>
     <li>[2018-05-15] v1.3.8 Release</li>
-    <li>[2018-05-15] v1.3.8 Release</li>
     <li>[2018-05-13] v1.3.7 Release</li>
     <li>[2018-05-09] v1.3.5 Release</li>
     <li>[2018-05-04] v1.3.4 Release</li>
