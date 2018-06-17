@@ -10,6 +10,7 @@
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-06-17] v1.4.7 Release</li>
     <li>[2018-06-03] v1.4.3 Release</li>
     <li>[2018-05-27] v1.4.1 Release</li>
     <li>[2018-05-15] v1.3.8 Release</li>
@@ -32,8 +33,4 @@
 * 개발 히스토리는 Trello에 등록되고 있습니다. 누구나 조회 가능합니다.
 * Development history is registered with Trello. Anyone can view it.
 
-![Imgur](https://i.imgur.com/U4tBk1R.png)
-
-![Imgur](https://i.imgur.com/IcgSJbf.png)
-
-![Imgur](https://i.imgur.com/lcGxi3f.png)
+![Imgur](https://i.imgur.com/dcyYALB.png)
