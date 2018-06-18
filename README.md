@@ -1,5 +1,3 @@
-![Imgur](https://cdn-images-1.medium.com/max/1200/0*r6NiNu1vACWUhy_J.png)
-
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ### I have migrated the repository to Gitlab.
