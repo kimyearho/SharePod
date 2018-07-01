@@ -3,6 +3,9 @@
 * 쉐어팟 개발은 계속 진행 중입니다!
 * SharePod development is on going
 
+* MacOS는 지원 예정입니다.
+* MacOS is not yet supported.
+
 ### I have migrated the repository to Gitlab.
 
 ### 저장소 이전
