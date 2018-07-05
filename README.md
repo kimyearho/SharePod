@@ -1,5 +1,8 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
+### SharePod is registered on the Electron platform !!
+### Thank you very much
+
 * 쉐어팟 개발은 계속 진행 중입니다!
 * SharePod development is on going
 
