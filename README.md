@@ -4,6 +4,9 @@
 ### Thank you very much 
 - [LINK](https://electronjs.org/apps/sharepod)
 
+### SOFTPEDIA review, 100% Clean APP.
+- [LINK](http://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/kimyearho-SharePod.shtml#status)
+
 * 쉐어팟 개발은 계속 진행 중입니다!
 * SharePod development is on going
 
