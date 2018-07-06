@@ -1,7 +1,7 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
-### Security update in progress. 
+### Security update in progress. (version 1.5.7)
 ### Inevitably, please download and install the new application from the git repository. 
 ### I am really sorry !!
 ***
