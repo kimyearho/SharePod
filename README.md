@@ -2,6 +2,7 @@
 
 ***
 ### Security update in progress. (version 1.5.7 ~ )
+### Existing programs are not available.
 ### Inevitably, please download and install the new application from the git repository. 
 ### I am really sorry !!
 ***
