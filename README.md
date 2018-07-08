@@ -4,7 +4,7 @@
 ### Security update in progress. (version 1.5.7 ~ )
 ### Inevitably, please download and install the new application from the git repository. 
 ### I am really sorry !!
-
+***
 ### SharePod is registered on the Electron platform !!
 ### Thank you very much 
 - [LINK](https://electronjs.org/apps/sharepod)
