@@ -28,6 +28,7 @@
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-07-10] v1.5.9 Release</li>
     <li>[2018-07-08] v1.5.8 Release</li>
     <li>[2018-06-24] v1.5.0 Release</li>
     <li>[2018-06-17] v1.4.7 Release</li>
