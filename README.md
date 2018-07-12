@@ -27,6 +27,7 @@
 
 ![Imgur](https://i.imgur.com/Owvj24L.png)
 ![Imgur](https://i.imgur.com/S8au0NK.png)
+![Imgur](https://i.imgur.com/LJERP9y.png)
 
 <details>
 <summary>Version Update (Show click)</summary>
