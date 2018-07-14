@@ -12,6 +12,9 @@
 
 ### SOFTPEDIA review, 100% Clean APP.
 - [LINK](http://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/kimyearho-SharePod.shtml#status)
+
+### Landing Page Open.
+-  [Link](http://sharepod.kr/)
 ***
 
 * 쉐어팟 개발은 계속 진행 중입니다!
