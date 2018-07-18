@@ -1,10 +1,7 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
-### Security update in progress. (version 1.5.7 ~ )
-### Existing programs are not available.
-### Inevitably, please download and install the new application from the git repository.
-### Web servers are securely used with SSL.
+### We are preparing 2.0 version to improve overseas connection and loading delay issues.
 ***
 ### SharePod is registered on the Electron platform !!
 ### Thank you very much 
