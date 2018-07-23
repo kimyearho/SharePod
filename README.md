@@ -1,7 +1,7 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
-### We are preparing 2.0 version to improve overseas connection and loading delay issues.
+### 1.x versions are deprecated. Download version 2.0.
 ***
 ### SharePod is registered on the Electron platform !!
 ### Thank you very much 
@@ -32,6 +32,7 @@
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-07-23] v2.0.0 Release</li>
     <li>[2018-07-17] v1.6.2 Release</li>
     <li>[2018-07-14] v1.6.1 Release</li>
     <li>[2018-07-12] v1.6.0 Release</li>
