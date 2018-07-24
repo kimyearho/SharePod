@@ -60,7 +60,3 @@
 ![Imgur](https://i.imgur.com/LJERP9y.png)
 
 <br/>
-  
-- [Team Trello](https://trello.com/b/j4mKplhk/youtube-music-player)
-- 개발 히스토리는 Trello에 등록되고 있습니다. 누구나 조회 가능합니다.
-- Development history is registered with Trello. Anyone can view it.
