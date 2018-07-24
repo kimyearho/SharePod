@@ -55,8 +55,9 @@
 ### 저장소 이전
 저장소를 GitLab으로 이전 했습니다. <br/>
 
-![Imgur](https://i.imgur.com/Owvj24L.png)
-![Imgur](https://i.imgur.com/S8au0NK.png)
-![Imgur](https://i.imgur.com/LJERP9y.png)
+![Imgur](https://i.imgur.com/rMdQlDu.png)
+![Imgur](https://i.imgur.com/uTEruIU.png)
+![Imgur](https://i.imgur.com/WlCKGKd.png)
+![Imgur](https://i.imgur.com/pUSWJLM.png)
 
 <br/>
