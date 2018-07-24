@@ -11,7 +11,7 @@
 - [LINK](http://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/kimyearho-SharePod.shtml#status)
 
 ### Landing Page Open.
--  [Link](http://sharepod.kr/)
+-  [Link](http://sharepod.kr)
 ***
 
 * 쉐어팟 개발은 계속 진행 중입니다!
@@ -23,6 +23,7 @@
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-07-25] v2.0.2 Release</li>
     <li>[2018-07-24] v2.0.1 Release</li>
     <li>[2018-07-23] v2.0.0 Release</li>
     <li>[2018-07-17] v1.6.2 Release</li>
