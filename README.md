@@ -1,7 +1,7 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
-### 1.x versions are deprecated. Download version 2.0.
+### 1.x versions are deprecated. Download version 2.x.
 ***
 ### SharePod is registered on the Electron platform !!
 ### Thank you very much 
@@ -20,18 +20,10 @@
 * MacOS는 지원 예정입니다.
 * MacOS is not yet supported.
 
-### I have migrated the repository to Gitlab.
-
-### 저장소 이전
-저장소를 GitLab으로 이전 했습니다. <br/>
-
-![Imgur](https://i.imgur.com/Owvj24L.png)
-![Imgur](https://i.imgur.com/S8au0NK.png)
-![Imgur](https://i.imgur.com/LJERP9y.png)
-
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-07-24] v2.0.1 Release</li>
     <li>[2018-07-23] v2.0.0 Release</li>
     <li>[2018-07-17] v1.6.2 Release</li>
     <li>[2018-07-14] v1.6.1 Release</li>
@@ -55,6 +47,18 @@
     <li>[2018-04-08] v1.1 Pre - Release</li>
     <li>[2018-04-06] v1.0 Pre - Release</li>
 </details>
+  
+<br>
+
+### I have migrated the repository to Gitlab.
+
+### 저장소 이전
+저장소를 GitLab으로 이전 했습니다. <br/>
+
+![Imgur](https://i.imgur.com/Owvj24L.png)
+![Imgur](https://i.imgur.com/S8au0NK.png)
+![Imgur](https://i.imgur.com/LJERP9y.png)
+
 <br/>
   
 - [Team Trello](https://trello.com/b/j4mKplhk/youtube-music-player)
