@@ -17,8 +17,11 @@
 * 쉐어팟 개발은 계속 진행 중입니다!
 * SharePod development is on going
 
-* MacOS는 지원 예정입니다.
-* MacOS is not yet supported.
+* Mac 지원.
+* Mac 버전은 예외처리로 실행해주시길 바랍니다.
+
+* MacOS supported.
+* For Mac version, register and execute exception handling.
 
 <details>
 <summary>Version Update (Show click)</summary>
