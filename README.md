@@ -3,9 +3,11 @@
 ***
 ### 1.x versions are deprecated. Download version 2.x.
 ***
-### SharePod is registered on the Electron platform !!
-### Thank you very much 
+### Thank you very much, Electron APP.
 - [LINK](https://electronjs.org/apps/sharepod)
+
+### ProductHunt APP Publish.
+- [LINK](https://www.producthunt.com/posts/sharepod)
 
 ### SOFTPEDIA review, 100% Clean APP.
 - [LINK](http://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/kimyearho-SharePod.shtml#status)
@@ -26,6 +28,7 @@
 <details>
 <summary>Version Update (Show click)</summary>
   <ul>
+    <li>[2018-08-02] v2.0.5 Release</li>
     <li>[2018-07-25] v2.0.2 Release</li>
     <li>[2018-07-24] v2.0.1 Release</li>
     <li>[2018-07-23] v2.0.0 Release</li>
