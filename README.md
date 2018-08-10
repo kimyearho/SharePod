@@ -1,7 +1,7 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
-### 1.x versions are deprecated. Download version 2.x.
+### [LINK](https://github.com/kimyearho/SharePodv2) // SharePod v2 Here !!
 ***
 ### Thank you very much, Electron APP.
 - [LINK](https://electronjs.org/apps/sharepod)
