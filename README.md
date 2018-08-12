@@ -1,6 +1,8 @@
 ![Imgur](https://scotch.io/wp-content/uploads/2015/09/angular-electron-cover.png)
 
 ***
+### This project has been discontinued.
+### See the new project below.
 ### [LINK](https://github.com/kimyearho/SharePodv2) // SharePod v2 Here !!
 ***
 ### Thank you very much, Electron APP.
