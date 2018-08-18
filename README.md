@@ -3,7 +3,7 @@
 ***
 ### This project has been discontinued.
 ### See the new project below.
-### [LINK](https://github.com/kimyearho/SharePodv2) // SharePod v2 Here !!
+### [MeTube LINK](https://github.com/kimyearho/SharePodv2) // New Project
 ***
 ### Thank you very much, Electron APP.
 - [LINK](https://electronjs.org/apps/sharepod)
